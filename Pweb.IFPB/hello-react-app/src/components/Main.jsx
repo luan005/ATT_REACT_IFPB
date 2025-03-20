@@ -1,5 +1,5 @@
 import { Container } from 'react-bootstrap';
-import PropriedadesCard from './PropriedadesCard';
+import PropriedadesCard from './InstituicoesCard';
 import Carrossel from './Carrosel';
 
 const Main = () => {
